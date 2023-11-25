@@ -1,51 +1,5 @@
 .App {
-  background-color: #333;
+  background-color: #222;
   min-height: 100vh;
   text-align: center;
-}
-.editor{
-  background-color: #333;
-  color: #fff;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  padding: 10px;
-}
-.resultado{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  margin: 10px;
-  padding: 10px;
-  background-color: #333;
-  color: #fff;
-}
-textarea {
-  font-size: 1.25em;
-  height: 350px;
-  margin: 10px 0;
-  padding: 10px;
-  width: 100%;
-}
-
-button {
-  color: #333;
-  font-size: 1.2em;
-  margin: 10px;
-  padding: 10px 20px;
-}
-
-pre {
-  white-space: pre-wrap;
-  word-wrap: break-word;
-  text-align: left;
-  margin: 10px;
-  padding: 10px;
-  border: 1px solid #fff;
-  background-color: #333;
-  color: #fff;
-  font-size: 1.2em;
-  width: 100%;
 }
